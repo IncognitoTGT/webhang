@@ -1,0 +1,22 @@
+{
+  "name": "webhang",
+  "version": "1.0.0",
+  "description": "A simple electron based webhook sender/manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StealthScript/webhang.git"
+  },
+  "keywords": [
+    "webhook"
+  ],
+  "author": "StealthScript",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StealthScript/webhang/issues"
+  },
+  "homepage": "https://github.com/StealthScript/webhang#readme"
+}
