@@ -1,0 +1,357 @@
+/* Rectangle 1 */
+
+position: absolute;
+width: 902px;
+height: 585px;
+
+background: #000000;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.35);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 396px;
+height: 73px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 396px;
+height: 36px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+
+/* Name */
+
+position: absolute;
+width: 50px;
+height: 28px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 198px;
+height: 76px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 198px;
+height: 36px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+
+/* Avatar URL */
+
+position: absolute;
+width: 120px;
+height: 28px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 198px;
+height: 76px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 198px;
+height: 36px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+
+/* URL */
+
+position: absolute;
+width: 120px;
+height: 28px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 120px;
+height: 44px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+
+/* Send */
+
+position: absolute;
+width: 120px;
+height: 44px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 396px;
+height: 185px;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 396px;
+height: 163px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 396px;
+height: 129px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Message */
+
+position: absolute;
+width: 85px;
+height: 20px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 97px;
+height: 17px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 15px;
+height: 15px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+
+
+/* Raw JSON */
+
+position: absolute;
+width: 73px;
+height: 15px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* WebHang */
+
+position: absolute;
+width: 155px;
+height: 40px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 270px;
+height: 38px;
+
+filter: drop-shadow(0px 4px 4px rgba(255, 255, 255, 0.35));
+
+
+/* Line 1 */
+
+position: absolute;
+width: 79.01px;
+height: 0px;
+
+background: #FFFFFF;
+border: 3px solid #9DC3FF;
+
+
+/* Make */
+
+position: absolute;
+width: 90px;
+height: 38px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Send */
+
+position: absolute;
+width: 90px;
+height: 38px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Store */
+
+position: absolute;
+width: 90px;
+height: 38px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 13px;
+height: 11.76px;
+
+background: rgba(255, 255, 255, 0.33);
+transform: rotate(-60deg);
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 13px;
+height: 11.76px;
+
+background: rgba(255, 255, 255, 0.33);
+transform: rotate(-60deg);
