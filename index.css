@@ -1,14 +1,19 @@
-/* Fonts */
+/* global css */
 @font-face {
   font-family: 'IBM Plex Mono';
-  src: url(https://github.com/IBM/plex/raw/master/IBM-Plex-Mono/fonts/complete/woff2/IBMPlexMono-Text.woff2);
+  src: url(fonts/IBMPlexMono-Text.woff2);
 }
-
+input {
+  color: white;
+  outline: none;
+  font-family:'IBM Plex Mono';
+  padding-left: 10px;
+}
 
 body {
     background-color: rgb(0, 0, 0);
   }
-
+ 
   /* WebHang */
 #heading {
 width: 155px;
@@ -46,6 +51,4 @@ background: #000000;
 border: 1px solid #FFFFFF;
 border-radius: 50px;
 }
-
-
 
