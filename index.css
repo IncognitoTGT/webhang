@@ -1,21 +1,51 @@
-/* Background Color */
+/* Fonts */
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url(https://github.com/IBM/plex/raw/master/IBM-Plex-Mono/fonts/complete/woff2/IBMPlexMono-Text.woff2);
+}
+
 
 body {
     background-color: rgb(0, 0, 0);
   }
 
   /* WebHang */
-title {
-position: absolute;
+#heading {
 width: 155px;
 height: 40px;
-
 font-family: 'IBM Plex Mono';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 47px;
-
 color: #FFFFFF;
 }
+/* Name */
+
+#name {
+  width: 50px;
+height: 28px;
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #FFFFFF;
+}
+
+/* Rectangle 2 */
+
+#jsusername1 {
+  box-sizing: border-box;
+
+position: absolute;
+width: 396px;
+height: 36px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+}
+
+
 
