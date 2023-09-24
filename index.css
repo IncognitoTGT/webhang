@@ -15,11 +15,9 @@ body {
     background-color: rgb(0, 0, 0);
   }
  
-.center {
-  
-  justify-content: center;
+#centre {
+  display: center;
 }
-
 
 
   /* WebHang */
@@ -151,19 +149,6 @@ border-radius: 50px;
 }
 
 
-#jsraw1 {
-
-/* Rectangle 3 */
-
-box-sizing: border-box;
-
-width: 15px;
-height: 15px;
-
-background: #000000;
-border: 1px solid #FFFFFF;
-border-radius: 4px;
-}
 
 #rawt {
 /* Raw JSON */
@@ -178,4 +163,57 @@ font-size: 15px;
 line-height: 20px;
 
 color: #FFFFFF;
+}
+#jsraw1 {
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+width: 15px;
+height: 15px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+}
+
+#sendb {
+  /* Group 3 */
+
+position: absolute;
+width: 120px;
+height: 44px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+
+/* Send */
+
+width: 120px;
+height: 44px;
+
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
 }
