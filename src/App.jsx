@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import './send.jsx'
 import send from './send.jsx';
 
 function App() {
@@ -22,7 +21,7 @@ function App() {
 		  <input id="jscontent1"></input>
 		  <br></br>
 		  <br></br>
-		  <button onclick={setvar}>Send</button>
+		  <button onClick={setvar}>Send</button>
 	</div>
       
       
@@ -34,6 +33,6 @@ function setvar() {
   let username = document.getElementById("jsusername1").value;
   let profile = document.getElementById("jspfp1").value;
   let url = document.getElementById("jsurl1").value;
-  send()
+  send(username,profile,content,url)
 }
 export default App
