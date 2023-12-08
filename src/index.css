@@ -159,8 +159,8 @@ button {
     position: absolute;
     width: 120px;
     height: 44px;
-    background: #FFFFFF;
-    border: 1px solid #000000;
+    background: #000000;
+    border: 3px solid #0000ff;
     border-radius: 50px;
     text-align: center;
 
@@ -174,7 +174,7 @@ button {
     line-height: 26px;
     align-items: center;
     text-align: center;
-    color: #000000;
+    color: #0000ff;
     text-align: center;
 
 }
