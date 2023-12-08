@@ -5,12 +5,12 @@ function App() {
 
   return (
     <>
-      <div>
+      <div id="centered">
         <h1>Webhang</h1>
         <p id="name">Name</p>
 		  <input id="jsusername1"></input>
 		  <br></br>
-		  <p>Avatar URL</p>
+		  <p id="aurl">Avatar URL</p>
 		  <input id="jspfp1"></input>  
 		  <br></br>
       <p id="urlxt">URL</p>

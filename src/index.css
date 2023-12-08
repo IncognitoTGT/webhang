@@ -11,14 +11,19 @@ input {
     font-family: 'IBM Plex Mono';
     padding-left: 10px;
     position: relative;
+    text-align: center;
+
 }
+
 
 body {
     background-color: rgb(0, 0, 0);
 }
 
-#centre {
+#centered {
     display: center;
+    margin: 0 auto;
+
 }
 
 
@@ -33,6 +38,8 @@ h1 {
     font-size: 36px;
     line-height: 47px;
     color: #FFFFFF;
+    text-align: center;
+
 }
 
 
@@ -47,6 +54,8 @@ p {
     font-size: 20px;
     line-height: 26px;
     color: #FFFFFF;
+    text-align: center;
+
 }
 
 
@@ -59,6 +68,8 @@ p {
     background: #000000;
     border: 1px solid #FFFFFF;
     border-radius: 50px;
+    text-align: center;
+
 }
 
 #aurl {
@@ -71,6 +82,8 @@ p {
     font-size: 20px;
     line-height: 26px;
     color: #FFFFFF;
+    text-align: center;
+
 }
 
 #jspfp1 {
@@ -81,6 +94,8 @@ p {
     background: #000000;
     border: 1px solid #FFFFFF;
     border-radius: 50px;
+    text-align: center;
+
 }
 
 #urlxt {
@@ -93,6 +108,8 @@ p {
     font-size: 20px;
     line-height: 26px;
     color: #FFFFFF;
+    text-align: center;
+
 }
 
 #jsurl1 {
@@ -103,19 +120,11 @@ p {
     background: #000000;
     border: 1px solid #FFFFFF;
     border-radius: 50px;
+    text-align: center;
+
 }
 
-#msgt {
-    /* Message */
-    width: 85px;
-    height: 20px;
-    font-family: 'IBM Plex Mono';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 26px;
-    color: #FFFFFF;
-}
+
 
 #jscontent1 {
     /* Rectangle 2 */
@@ -126,6 +135,8 @@ p {
     border: 1px solid #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 50px;
+    text-align: center;
+
 }
 
 #rawt {
@@ -138,13 +149,12 @@ p {
     font-size: 15px;
     line-height: 20px;
     color: #FFFFFF;
+    text-align: center;
+
 }
 
 button {
-    /* Group 3 */
-    position: absolute;
-    width: 120px;
-    height: 44px;
+   
     /* Rectangle 3 */
     box-sizing: border-box;
     position: absolute;
@@ -153,8 +163,9 @@ button {
     background: #FFFFFF;
     border: 1px solid #000000;
     border-radius: 50px;
+    text-align: center;
+
     /* Send */
-    position: absolute;
     width: 120px;
     height: 44px;
     font-family: 'IBM Plex Mono';
@@ -162,8 +173,9 @@ button {
     font-weight: 400;
     font-size: 20px;
     line-height: 26px;
-    display: flex;
     align-items: center;
     text-align: center;
     color: #000000;
+    text-align: center;
+
 }
