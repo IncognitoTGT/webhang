@@ -21,8 +21,7 @@ body {
 }
 
 #centered {
-    display: center;
-    margin: 0 auto;
+    justify-content: center;
 
 }
 
